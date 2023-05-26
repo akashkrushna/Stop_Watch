@@ -6,3 +6,6 @@
 * To enhance the visual appearance it can be viewed in both dark and light modes, making it easier to access at all times, along with having a responsive website inorder to maximize the user experience.
 
 # Project
+https://akashkrushna.github.io/Stop_Watch/
+
+# Screenshots
